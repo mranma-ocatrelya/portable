@@ -1,0 +1,35 @@
+
+bdo:EtextChunk					397
+	a owl:Class ;
+	rdfs:subClassOf bdo:Facet .
+
+bdo:EtextLine					420
+	a owl:Class ;
+	rdfs:subClassOf bdo:EtextSlice .
+
+bdo:EtextPage					435
+	a owl:Class ;
+	rdfs:subClassOf bdo:EtextSlice .
+
+bdo:EtextSlice					458
+	a owl:Class ;
+	rdfs:subClassOf bdo:Facet .
+
+bdo:Facet					480
+	a owl:Class .
+
+bdo:chunkContents				1745
+	a owl:DatatypeProperty ;
+	rdfs:domain bdo:EtextChunk ;
+	rdfs:range rdf:langString .
+
+bdo:eTextHasChunk				2183
+	a owl:ObjectProperty ;
+	rdfs:domain bdo:Etext ;
+	rdfs:range bdo:EtextChunk .
+
+bdo:sliceEndChar				4266
+	a owl:DatatypeProperty .
+
+bdo:sliceStartChar				4272
+	a owl:DatatypeProperty .

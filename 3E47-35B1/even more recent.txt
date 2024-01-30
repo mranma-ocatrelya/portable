@@ -1,0 +1,20 @@
+
+https://wordnetcode.princeton.edu/
+https://www.w3.org/TR/wordnet-rdf/
+https://web.archive.org/web/20020808070106/http://wordnet.princeton.edu/
+
+
+Knows In Passing	know
+Has Met			meet
+Acquaintance Of		know
+Colleague Of		*leǵ-	gather, collect		derivatives meaning to speak by carefully selecting one's words
+Works With		work
+Collaborates With	labor
+
+
+
+https://web.archive.org/web/20031206200739id_/w3c.rl.ac.uk/2003/11/21-skos-core
+https://web.archive.org/web/20031206200831id_/w3c.rl.ac.uk/2003/11/21-skos-mapping
+https://web.archive.org/web/20031206202117/http://www.w3c.rl.ac.uk:80/SWAD/deliverables/8.1.html
+
+https://web.archive.org/web/20031206203412/http://www.w3c.rl.ac.uk/SWAD/thesaurus.html

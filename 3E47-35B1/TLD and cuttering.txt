@@ -1,0 +1,43 @@
+
+		9 223 372 036 854 775 808
+			w3.org		=	or;w3		=	5 693 (xxx)*5
+			w3.org/TR	=	or;w3;tr	=	5 693 86x (xxx)*4
+
+	Primer then Schema (20030905)
+w3.org/TR/2003/WD-r (408315+83193 chars) = or;w3;tr;2003;906 = 5 693 862 003 906 491 508
+(w3.org/TR/2003/WD-r @ char 408315+69944) = or;w3;tr;2003;906 = 5 693 862 003 906 478 259 (Class)
+w3.org/TR/2003/WD-r (char 408315+76603) = or;w3;tr;2003;906 = 5 693 862 003 906 484 918 (object)
+
+
+w3.org/TR/2003/WD-r (242420 chars) = or;w3;tr;2003;906 = 5 693 862 003 906 242 420
+w3.org/TR/2003/WD-r (char 104661) = or;w3;tr;2003;906 = 5 693 862 003 906 104 661
+w3.org/DesignIssues (20851 chars)
+(w3.org/DesignIssu @ char 3461) = or;w3;designissu = 5 693 017 324 377 903 461
+
+
+						cutter
+
+	0	a-d				3
+	1	e				4
+	2	f-h				4
+	3	i-l				5
+	4	m-n				6
+	5	o				6
+	6	p-r				7
+	7	s				7
+	8	t				8
+	9	u-z				8-9
+
+	1	a-d
+	2	e
+	3	f-h
+	4	i-m
+	5	n-o
+	6	p-s
+	7	t
+	8	u-z
+	90	(timestamp sub-seconds)
+
+
+
+

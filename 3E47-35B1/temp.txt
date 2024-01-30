@@ -1,0 +1,49 @@
+YYYY-MM-DD + ㏂/㏘ + 12^3
+
+
+
+			PID	datatype
+
+1981-03-10T19:53:44	P1	wikibase-form
+		45	P2	wikibase-property
+		46	P3	wikibase-lexeme
+		47	P4	wikibase-sense
+		48	P5	string
+		49	P6	url
+		50	P7	wikibase-item
+		51	P8	wikibase-property
+		52	P9	wikibase-lexeme
+		53	P10	wikibase-sense
+		54	P11	string
+		55	P12	external-id
+		56	P13	wikibase-form
+		57	P14	wikibase-property
+		58	P15	wikibase-lexeme
+		59	P16	wikibase-sense
+1981-03-10T19:54:00	P17	string
+
+wikibase-sense:			:05,11,17,23,29,35,41,47,53,59
+string:				:00,06,12,18,24,30,36,42,48,54
+
+
+string
+url
+wikibase-property
+external-id
+wikibase-sense
+
+
+	'string'            => array( 'value-type' => 'string' ),
+	'url'               => array( 'value-type' => 'string' ),
+	'wikibase-item'     => array( 'value-type' => 'wikibase-entityid' ),
+	'wikibase-property' => array( 'value-type' => 'wikibase-entityid' ),
+	wikibase-lexeme
+	wikibase-sense
+
+	string
+	external-id
+	wikibase-form
+	'wikibase-property' => array( 'value-type' => 'wikibase-entityid' ),
+	wikibase-lexeme
+	wikibase-sense
+

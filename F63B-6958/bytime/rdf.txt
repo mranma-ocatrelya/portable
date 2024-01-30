@@ -1,0 +1,110 @@
+
+view-source:https://www.w3.org/TR/2011/WD-turtle-20110809/
+	same as
+view-source:https://web.archive.org/web/20110813093118id_/w3.org/TR/2011/WD-turtle-20110809/
+
+	check
+F:\a\5\6\n\1\a\org\w3\1998\10\WD-rdf-syntax-19981008=215502
+	and
+F:\a\p\0\y\h\a\org\w3\TR\2001\WD-rdf-syntax-grammar-20010906
+	for dates on original pages
+
+
+https://dvcs.w3.org/hg/rdf/raw-file/default/rdf-turtle/index.html
+https://www.w3.org/TR/2011/WD-rdf11-concepts-20110830/
+https://www.w3.org/2011/rdf-wg/wiki/index.php?title=Main_Page&oldid=1183
+https://www.w3.org/2011/rdf-wg/wiki/index.php?title=Documents&oldid=1161
+https://www.w3.org/TeamSubmission/2008/SUBM-turtle-20080114/
+
+https://www.w3.org/1999/.status/PR-rdf-syntax-19990105/status
+https://www.w3.org/1999/.status/REC-rdf-syntax-19990222/status
+https://www.w3.org/1999/02/22-rdf-syntax-ns
+
+https://www.w3.org/1999/.status/PR-rdf-schema-19990303/status
+https://www.w3.org/2000/01/rdf-schema
+https://www.w3.org/2000/.status/CR-rdf-schema-20000327/status
+
+https://www.w3.org/2001/sw/WebOnt
+
+https://www.w3.org/TR/2002/WD-owl-ref-20020729/
+https://www.w3.org/2002/07/owl
+
+
+https://dvcs.w3.org/hg/rdf/summary
+
+https://lists.w3.org/Archives/Public/public-rdf-wg/
+
+
+https://www.w3.org/TR/WD-xml-961114#NT-S	, #NT-Character	, #NT-Letter	, etc.
+
+https://www.w3.org/TR/WD-xml-lang-970331#NT-S	, #NT-Char	, #NT-MiscName	, etc.
+
+https://www.w3.org/TR/WD-rdf-syntax-971002/#grammar
+[1]	RDF
+[2]	node
+[3]	resource	::=	rdf:resource						*
+[4]	assertions
+[5]	aggregate
+[6]	sequence	::=	rdf:Seq							*
+[7]	bag		::=	rdf:Bag							*
+[8]	alternatives
+[9]	aggnode		::=	node | rdf:li						*
+[10]	idRefAttr
+[11]	hrefAttr
+[12]	idAttr
+[13]	resourceURI
+[14]	IDsymbol
+[15]	property					(essentially rdf:Property)	*
+[16]	propName
+[17]	propValue
+[18]	name
+[19]	namePrefix
+[20]	string
+
+https://www.w3.org/TR/1998/NOTE-xml-names-0119#sec-syntax
+[1]	NamespacePI
+[2]	NSName
+[3]	prolog
+[4]	Qname
+[5]	NSPart
+[6]	LocalPart
+[7]	Name
+[8]	MiscName
+[9]	STag
+[10]	ETag
+[11]	EmptyElement
+[12]	Attribute
+			!!! STUDY THESE FURTHER !!!
+
+https://www.w3.org/TR/1998/WD-rdf-syntax-19980216/#grammar
+[2]	expression
+[3]	description	::=	rdf:Description		(was [4] assertions)		*
+[4]	collection					(was [5] aggregate)
+[7]	alternatives	::=	rdf:Alt							*
+[8]	collMember	::=	rdf:li
+[9]	hrefItem
+[10]	valueItem
+[14]	bagIdAttr
+[19]	value						(essentially rdf:value)		*
+[23]	typedNode
+[24]	typeName
+[25]	propAttr
+			!!! STUDY THESE FURTHER !!!
+
+https://www.w3.org/TR/1998/WD-rdf-syntax-19980720/#grammar
+
+https://www.w3.org/TR/1998/WD-rdf-syntax-19980819/#grammar
+
+https://www.w3.org/1998/10/WD-rdf-syntax-19981008/#grammar		READ REVISION HISTORY
+	rdf:Statement
+	rdf:predicate
+	rdf:subject
+	rdf:object
+	rdf:type
+
+https://www.w3.org/TR/1999/PR-rdf-syntax-19990105/#RDF	, #obj	, #description	, etc.
+
+https://www.w3.org/TR/1999/REC-rdf-syntax-19990222/#RDF	, (as above)
+
+
+https://www.w3.org/TR/2001/WD-rdf-syntax-grammar-20010906/#section-Updated-Grammar-grammar

@@ -1,0 +1,201 @@
+"༄༅། །འདུལ་བ་ཀ་བཞུགས་སོ། ། [1]"
+"༄༅། །ཉི་ཁྲི་ཀ་པ་བཞུགས་སོ། ། [26]"
+
+
+
+https://github.com/buda-base/owl-schema/blob/40520d0d610e05e8d2095bf11b16aefb8e4fc837/bdrc.owl
+
+https://github.com/buda-base/lds-pdi/blob/master/API.md
+
+https://purl.bdrc.io/query/graph/getAdminData?R_RES=bdr:MW4CZ5369&format=ttl
+
+http://purl.bdrc.io/queries
+https://purl.bdrc.io/query/graph/ResInfo-preview?R_RES=bdr:UT4CZ5369_I1KG9164_0000&format=ttl
+
+   bdo:sliceEndChar  205459 ;
+   bdo:sliceStartChar  204245 .
+
+   bdo:sliceEndChar  206664 ;
+   bdo:sliceStartChar  205459 .
+
+https://purl.bdrc.io/query/graph/chunkContext?R_UT=bdr:UT4CZ5369_I1KG9164_0000&I_START=204841&I_END=206219&format=ttl
+
+
+https://library.bdrc.io/show/bdr:UT4CZ5369_I1KG9164_0000?startChar=204841#open-viewer
+
+https://read.84000.co/source/toh44-45.html?ref-index=379
+
+https://gitlab.com/bdrc-data/etexts-20220922/-/find_file/master
+
+https://github.com/buda-base/lds-pdi/blob/master/API.md
+
+https://dictionary.christian-steinert.de/#home
+
+https://rywiki.tsadra.org/index.php/Main_Page
+https://rywiki.tsadra.org/index.php/Category:External_Dictionaries
+
+https://tibterminology.net/
+
+https://wordcounter.net/character-count
+
+			gandavyuha begins here:
+		38th volume	138th page	having 7 lines
+
+	Q	2000000k	-	2000799k	('gyur)
+	Q	2000800k	-	2001599k	(bka' 'gyur)
+	Q	2001600k	-	2042799k	bka' 'gyur
+		Q	2001600k	-	2001999k	1st volume
+			Q	2001600k	-	2001603.99k	(1st volume)
+			Q	2001604000	-	2001604399	1st page
+				Q	2001604000	-	2001604019	(1st page)
+				Q	2001604020	-	2001604059	1st line
+
+				Q	2001604060	-	2001604099	2nd line
+				Q	2001604100	-	2001604139	3rd line
+			Q	2001604.40k	-	2001604.79k	2nd page
+			Q	2001604.80k	-	2001605.19k	3rd page
+			Q	2001605.20k	-	2001605.59k	4th page
+			Q	2001605.60k	-	2001605.99k	5th page
+			Q	2001606.00k	-	2001607.99k	6th-10th pages
+			Q	2001608k	-	2001611.99k	11th-20th pages
+			Q	2001612k	-	2001619.99k	21st-40th pages	
+			Q	2001620k	-
+		Q	2002000k	-	2001399k	2nd volume
+		Q	2002400k
+	Q	2042800k	-	2043599k	(bstan 'gyur)
+	Q	2043600k	-	2128799k	bstan 'gyur
+
+	Q	2128800k	-	2129599k	('gyur)
+
+
+			147,483,647 Wikibase entity numbers available after 2 billion
+		/316 'gyur volumes means each volume may = 400,000 entity numbers
+			each volume may have as many as 1,000 pages means
+			each page may = 400 entity numbers
+
+
+	bka' 'gyur			bdr:WA0BC001
+
+		TIBT
+
+	bka' 'gyur (sde dge)		bdr:MW4CZ5369
+		publisher	[sde dge par khang chen mo]
+
+
+	bstan 'gyur			bdr:WA0BC002
+
+		TIBT
+
+	bstan 'gyur/ (sde dge/)		bdr:MW23703
+		publisher	delhi karmapae choedhey, gyalwae sungrab partun khang
+	bstan 'gyur/ (sde dge par ma/)	bdr:MW2KG209989
+		publisher	sde dge par khang
+
+	--------------------------------------------------------
+
+https://ldspdi.bdrc.io/resource/IE4CZ5369.ttl
+
+1)bdr:IE4CZ5369  a  bdo:DigitalInstance , bdo:EtextInstance , bdo:Instance ;
+   bdo:contentMethod  bdr:ContentMethod_ComputerInput ;
+2)   bdo:inCollection  bdr:PR0ET003 ;
+   bdo:instanceHasVolume  bdr:VE4CZ5369_001 , bdr:VE4CZ5369_002 , bdr:VE4CZ5369_003 , bdr:VE4CZ5369_004 , bdr:VE4CZ5369_005 , bdr:VE4CZ5369_006 , bdr:VE4CZ5369_007 , bdr:VE4CZ5369_008 , bdr:VE4CZ5369_009 , bdr:VE4CZ5369_010 , bdr:VE4CZ5369_011 , bdr:VE4CZ5369_012 , bdr:VE4CZ5369_013 , bdr:VE4CZ5369_014 , bdr:VE4CZ5369_015 , bdr:VE4CZ5369_016 , bdr:VE4CZ5369_017 , bdr:VE4CZ5369_018 , bdr:VE4CZ5369_019 , bdr:VE4CZ5369_020 , bdr:VE4CZ5369_021 , bdr:VE4CZ5369_022 , bdr:VE4CZ5369_023 , bdr:VE4CZ5369_024 , bdr:VE4CZ5369_025 , bdr:VE4CZ5369_026 , bdr:VE4CZ5369_027 , bdr:VE4CZ5369_028 , bdr:VE4CZ5369_029 , bdr:VE4CZ5369_030 , bdr:VE4CZ5369_031 , bdr:VE4CZ5369_032 , bdr:VE4CZ5369_033 , bdr:VE4CZ5369_034 , bdr:VE4CZ5369_035 , bdr:VE4CZ5369_036 , bdr:VE4CZ5369_037 , bdr:VE4CZ5369_038 , bdr:VE4CZ5369_039 , bdr:VE4CZ5369_040 , bdr:VE4CZ5369_041 , bdr:VE4CZ5369_042 , bdr:VE4CZ5369_043 , bdr:VE4CZ5369_044 , bdr:VE4CZ5369_045 , bdr:VE4CZ5369_046 , bdr:VE4CZ5369_047 , bdr:VE4CZ5369_048 , bdr:VE4CZ5369_049 , bdr:VE4CZ5369_050 , bdr:VE4CZ5369_051 , bdr:VE4CZ5369_052 , bdr:VE4CZ5369_053 , bdr:VE4CZ5369_054 , bdr:VE4CZ5369_055 , bdr:VE4CZ5369_056 , bdr:VE4CZ5369_057 , bdr:VE4CZ5369_058 , bdr:VE4CZ5369_059 , bdr:VE4CZ5369_060 , bdr:VE4CZ5369_061 , bdr:VE4CZ5369_062 , bdr:VE4CZ5369_063 , bdr:VE4CZ5369_064 , bdr:VE4CZ5369_065 , bdr:VE4CZ5369_066 , bdr:VE4CZ5369_067 , bdr:VE4CZ5369_068 , bdr:VE4CZ5369_069 , bdr:VE4CZ5369_070 , bdr:VE4CZ5369_071 , bdr:VE4CZ5369_072 , bdr:VE4CZ5369_073 , bdr:VE4CZ5369_074 , bdr:VE4CZ5369_075 , bdr:VE4CZ5369_076 , bdr:VE4CZ5369_077 , bdr:VE4CZ5369_078 , bdr:VE4CZ5369_079 , bdr:VE4CZ5369_080 , bdr:VE4CZ5369_081 , bdr:VE4CZ5369_082 , bdr:VE4CZ5369_083 , bdr:VE4CZ5369_084 , bdr:VE4CZ5369_085 , bdr:VE4CZ5369_086 , bdr:VE4CZ5369_087 , bdr:VE4CZ5369_088 , bdr:VE4CZ5369_089 , bdr:VE4CZ5369_090 , bdr:VE4CZ5369_091 , bdr:VE4CZ5369_092 , bdr:VE4CZ5369_093 , bdr:VE4CZ5369_094 , bdr:VE4CZ5369_095 , bdr:VE4CZ5369_096 , bdr:VE4CZ5369_097 , bdr:VE4CZ5369_098 , bdr:VE4CZ5369_099 , bdr:VE4CZ5369_100 , bdr:VE4CZ5369_101 , bdr:VE4CZ5369_102 ;
+4)   bdo:instanceOf  bdr:WA0BC001 ;
+   bdo:instanceReproductionOf  bdr:MW4CZ5369 , bdr:W4CZ5369 .
+
+
+https://ldspdi.bdrc.io/resource/PR0ET003.ttl
+
+2)bdr:PR0ET003  bdo:collectionMember
+3,1)      bdr:IE23703 , bdr:IE4CZ5369 .
+
+https://ldspdi.bdrc.io/resource/IE23703.ttl
+
+3)bdr:IE23703  a   bdo:DigitalInstance , bdo:EtextInstance , bdo:Instance ;
+   bdo:contentMethod  bdr:ContentMethod_ComputerInput ;
+   bdo:inCollection  bdr:PR0ET003 ;
+   bdo:instanceHasVolume  bdr:VE23703_001 , bdr:VE23703_002 , bdr:VE23703_003 , bdr:VE23703_004 , bdr:VE23703_005 , bdr:VE23703_006 , bdr:VE23703_007 , bdr:VE23703_008 , bdr:VE23703_009 , bdr:VE23703_010 , bdr:VE23703_011 , bdr:VE23703_012 , bdr:VE23703_013 , bdr:VE23703_014 , bdr:VE23703_015 , bdr:VE23703_016 , bdr:VE23703_017 , bdr:VE23703_018 , bdr:VE23703_019 , bdr:VE23703_020 , bdr:VE23703_021 , bdr:VE23703_022 , bdr:VE23703_023 , bdr:VE23703_024 , bdr:VE23703_025 , bdr:VE23703_026 , bdr:VE23703_027 , bdr:VE23703_028 , bdr:VE23703_029 , bdr:VE23703_030 , bdr:VE23703_031 , bdr:VE23703_032 , bdr:VE23703_033 , bdr:VE23703_034 , bdr:VE23703_035 , bdr:VE23703_036 , bdr:VE23703_037 , bdr:VE23703_038 , bdr:VE23703_039 , bdr:VE23703_040 , bdr:VE23703_041 , bdr:VE23703_042 , bdr:VE23703_043 , bdr:VE23703_044 , bdr:VE23703_045 , bdr:VE23703_046 , bdr:VE23703_047 , bdr:VE23703_048 , bdr:VE23703_049 , bdr:VE23703_050 , bdr:VE23703_051 , bdr:VE23703_052 , bdr:VE23703_053 , bdr:VE23703_054 , bdr:VE23703_055 , bdr:VE23703_056 , bdr:VE23703_057 , bdr:VE23703_058 , bdr:VE23703_059 , bdr:VE23703_060 , bdr:VE23703_061 , bdr:VE23703_062 , bdr:VE23703_063 , bdr:VE23703_064 , bdr:VE23703_065 , bdr:VE23703_066 , bdr:VE23703_067 , bdr:VE23703_068 , bdr:VE23703_069 , bdr:VE23703_070 , bdr:VE23703_071 , bdr:VE23703_072 , bdr:VE23703_073 , bdr:VE23703_074 , bdr:VE23703_075 , bdr:VE23703_076 , bdr:VE23703_077 , bdr:VE23703_078 , bdr:VE23703_079 , bdr:VE23703_080 , bdr:VE23703_081 , bdr:VE23703_082 , bdr:VE23703_083 , bdr:VE23703_084 , bdr:VE23703_085 , bdr:VE23703_086 , bdr:VE23703_087 , bdr:VE23703_088 , bdr:VE23703_089 , bdr:VE23703_090 , bdr:VE23703_091 , bdr:VE23703_092 , bdr:VE23703_093 , bdr:VE23703_094 , bdr:VE23703_095 , bdr:VE23703_096 , bdr:VE23703_097 , bdr:VE23703_098 , bdr:VE23703_099 , bdr:VE23703_100 , bdr:VE23703_101 , bdr:VE23703_102 , bdr:VE23703_103 , bdr:VE23703_104 , bdr:VE23703_105 , bdr:VE23703_106 , bdr:VE23703_107 , bdr:VE23703_108 , bdr:VE23703_109 , bdr:VE23703_110 , bdr:VE23703_111 , bdr:VE23703_112 , bdr:VE23703_113 , bdr:VE23703_114 , bdr:VE23703_115 , bdr:VE23703_116 , bdr:VE23703_117 , bdr:VE23703_118 , bdr:VE23703_119 , bdr:VE23703_120 , bdr:VE23703_121 , bdr:VE23703_122 , bdr:VE23703_123 , bdr:VE23703_124 , bdr:VE23703_125 , bdr:VE23703_126 , bdr:VE23703_127 , bdr:VE23703_128 , bdr:VE23703_129 , bdr:VE23703_130 , bdr:VE23703_131 , bdr:VE23703_132 , bdr:VE23703_133 , bdr:VE23703_134 , bdr:VE23703_135 , bdr:VE23703_136 , bdr:VE23703_137 , bdr:VE23703_138 , bdr:VE23703_139 , bdr:VE23703_140 , bdr:VE23703_141 , bdr:VE23703_142 , bdr:VE23703_143 , bdr:VE23703_144 , bdr:VE23703_145 , bdr:VE23703_146 , bdr:VE23703_147 , bdr:VE23703_148 , bdr:VE23703_149 , bdr:VE23703_150 , bdr:VE23703_151 , bdr:VE23703_152 , bdr:VE23703_153 , bdr:VE23703_154 , bdr:VE23703_155 , bdr:VE23703_156 , bdr:VE23703_157 , bdr:VE23703_158 , bdr:VE23703_159 , bdr:VE23703_160 , bdr:VE23703_161 , bdr:VE23703_162 , bdr:VE23703_163 , bdr:VE23703_164 , bdr:VE23703_165 , bdr:VE23703_166 , bdr:VE23703_167 , bdr:VE23703_168 , bdr:VE23703_169 , bdr:VE23703_170 , bdr:VE23703_171 , bdr:VE23703_172 , bdr:VE23703_173 , bdr:VE23703_174 , bdr:VE23703_175 , bdr:VE23703_176 , bdr:VE23703_177 , bdr:VE23703_178 , bdr:VE23703_179 , bdr:VE23703_180 , bdr:VE23703_181 , bdr:VE23703_182 , bdr:VE23703_183 , bdr:VE23703_184 , bdr:VE23703_185 , bdr:VE23703_186 , bdr:VE23703_187 , bdr:VE23703_188 , bdr:VE23703_189 , bdr:VE23703_190 , bdr:VE23703_191 , bdr:VE23703_192 , bdr:VE23703_193 , bdr:VE23703_194 , bdr:VE23703_195 , bdr:VE23703_196 , bdr:VE23703_197 , bdr:VE23703_198 , bdr:VE23703_199 , bdr:VE23703_200 , bdr:VE23703_201 , bdr:VE23703_202 , bdr:VE23703_203 , bdr:VE23703_204 , bdr:VE23703_205 , bdr:VE23703_206 , bdr:VE23703_207 , bdr:VE23703_208 , bdr:VE23703_209 , bdr:VE23703_210 , bdr:VE23703_211 ;
+5,6)   bdo:instanceOf  bdr:WA0BC002 , bdr:WA23703 ;
+   bdo:instanceReproductionOf  bdr:MW23703 , bdr:W23703 .
+
+https://ldspdi.bdrc.io/resource/WA0BC001.ttl
+
+4)bdr:WA0BC001  a  bdo:Work ;
+   skos:prefLabel  "bka' 'gyur/"@bo-x-ewts , "Kangyur"@en , "甘珠尔"@zh-hans ;
+   bdo:catalogInfo  "The “Translated Words (of the Buddha)”, part of the Tibetan Buddhist Canon."@en ;
+   bdo:language  bdr:LangBo ;
+   bdo:note      bdr:NTD00F2616E9D1894B ;
+   bdo:workHasInstance  bdr:IE4CZ5369 , bdr:MW4CZ5369 , bdr:W4CZ5369 .
+   bdo:workIsAbout  bdr:T2423 .
+
+https://ldspdi.bdrc.io/resource/WA0BC002.ttl
+
+5)bdr:WA0BC002  a  bdo:Work ;
+   skos:prefLabel  "bstan 'gyur/"@bo-x-ewts , "Tengyur"@en , "丹珠爾"@zh-hant ;
+   bdo:catalogInfo  "The “Translated Treatises”, part of the Tibetan Buddhist Canon."@en ;
+   bdo:language  bdr:LangBo ;
+   bdo:note      bdr:NT527F281F3AD98AD3 ;
+   bdo:workHasInstance  bdr:IE23703 , bdr:MW23703 , bdr:W23703 .
+   bdo:workIsAbout  bdr:T3CN2023 .
+
+https://ldspdi.bdrc.io/resource/WA23703.ttl
+
+6)bdr:WA23703  a   bdo:Work ;
+   skos:altLabel  "སྡེ་དགེའི་བསྟན་འགྱུར།"@bo , "sde dge bstan 'gyur/"@bo-x-ewts , "sde dge‘i bstan 'gyur/"@bo-x-ewts ;
+   skos:prefLabel  "bstan 'gyur/ (sde dge/)"@bo-x-ewts , "Derge Tanjur"@en-x-mixed , "丹珠尔(德格版)"@zh-hans ;
+   bdo:catalogInfo  "Dege Tengyur. Produced in 1737-1744 under the patronage of the Dege King Tenpa Tsering. Edited by Shuchen Tsultrim Rinchen. Facsimile was published in India in 1982-1985 as a part of Karmapa 16 Rangchung Rikpai Dorje's (1924-1981) memorial ceremonies."@en ;
+   bdo:language  bdr:LangBo ;
+   bdo:workGenre  bdr:T1777 ;
+   bdo:workHasInstance  bdr:IE23703 , bdr:MW23703 , bdr:W23703 ;
+   bdo:workIsAbout  bdr:T3CN2023 .
+
+https://library.bdrc.io/show/bdr:IE4CZ5369
+	links to
+https://library.bdrc.io/show/bdr:UT4CZ5369_I1KG9127_0000
+
+https://ldspdi.bdrc.io/resource/UT4CZ5369_I1KG9127_0000.ttl
+
+bdr:EPB55330ABD692E794
+   a             bdo:EtextPage ;
+   bdo:seqNum    3 ;
+   bdo:sliceEndChar  26 ;
+   bdo:sliceStartChar  0 .
+
+bdr:EPDFEC2903F1E3A35F
+   a             bdo:EtextPage ;
+   bdo:pageHasLine  bdr:EL444BA18F9BE6E5C8 , bdr:EL50A6C31584F5DC0C , bdr:EL57665646E5A40E9A , bdr:EL5B32CCE3995D4979 , bdr:EL876C22271CDF7353 , bdr:EL9BA553FD1738E44C ;
+   bdo:seqNum    623 ;
+   bdo:sliceEndChar  935005 ;
+   bdo:sliceStartChar  933967 .
+
+bdr:UT4CZ5369_I1KG9127_0000
+   a             bdo:EtextPaginated ;
+   skos:prefLabel  "༄༅། །འདུལ་བ་ཀ་བཞུགས་སོ། ། [1]"@bo ;
+   bdo:eTextHasPage  bdr:EPB55330ABD692E794 , bdr:EPDFEC2903F1E3A35F ;
+   bdo:eTextInInstance  bdr:IE4CZ5369 ;
+   bdo:eTextIsVolume  1 ;
+   bdo:eTextSourcePath  "eKangyur/W4CZ5369/sources/W4CZ5369-I1KG9127/W4CZ5369-I1KG9127-0000.txt" .
+
+https://ldspdi.bdrc.io/resource/UT4CZ5369_I1KG9128_0000.ttl
+
+bdr:EPC56DA7906BC9DB3F
+   a             bdo:EtextPage ;
+   bdo:seqNum    3 ;
+   bdo:sliceEndChar  27 ;
+   bdo:sliceStartChar  0 .
+
+bdr:EP7819B4AF466D9024
+   a             bdo:EtextPage ;
+   bdo:pageHasLine  bdr:EL3AE2DB505242A421 , bdr:EL504831CC3342F740 , bdr:ELA46F9E700A56C510 , bdr:ELB5A2F8026665C05E , bdr:ELE398936C1AEFE738 , bdr:ELF35F048066F11064 , bdr:ELF9284541ED66ABD8 ;
+   bdo:seqNum    635 ;
+   bdo:sliceEndChar  973565 ;
+   bdo:sliceStartChar  972273 .
+
+bdr:UT4CZ5369_I1KG9128_0000
+   a             bdo:EtextPaginated ;
+   skos:prefLabel  " ༄༅། །འདུལ་བ་ཁ་བཞུགས་སོ། ། [2]"@bo-x-ewts ;
+   bdo:eTextHasPage  bdr:EP7819B4AF466D9024 , bdr:EPC56DA7906BC9DB3F ;
+   bdo:eTextInInstance  bdr:IE4CZ5369 ;
+   bdo:eTextIsVolume  2 ;
+   bdo:eTextSourcePath  "eKangyur/W4CZ5369/sources/W4CZ5369-I1KG9128/W4CZ5369-I1KG9128-0000.txt" .
+
+	which gives us 935006+973566=1908572 chars in 2 volumes (of 103)

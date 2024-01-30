@@ -1,0 +1,137 @@
+https://web.archive.org/cdx/search/cdx?url=*.imdb.com/name/nm[[[here is the number]]]*&fl=urlkey,timestamp,original&to=[[[year]]]&filter=urlkey:com,imdb(,us)?\u0029/name/nm[[[again the number]]]&filter=statuscode:200&limit=[[[20? or so]]]&showResumeKey=true&resumeKey=com%2Cimdb[[[%2Cus - this is the part to remove]]]%29%2Fname%2Fnm[[[finally again the number]]]
+
+
+https://web.archive.org/cdx/search/cdx?url=*.imdb.com/name/nm1429380*&fl=urlkey,timestamp,original&to=2023&filter=urlkey:com,imdb(,us)?\u0029/name/nm1429380&filter=statuscode:200&limit=20&showResumeKey=true&resumeKey=com%2Cimdb%2Cus%29%2Fname%2Fnm1429380
+
+
+
+
+
+https://web.archive.org/cdx/search/cdx?url=*.imdb.com/name/nm0267812*&fl=urlkey,timestamp,original&to=2023&filter=urlkey:com,imdb(,us)?\u0029/name/nm0267812&filter=statuscode:200&collapse=urlkey&limit=20&showResumeKey=true&resumeKey=com%2Cimdb%2Cus%29%2Fname%2Fnm
+
+
+view-source:https://web.archive.org/cdx/search/cdx?url=*.imdb.com/name/nm*&fl=urlkey,timestamp&to=20031002003335&filter=urlkey:com,imdb(,us)?\u0029/name/nm\d{7,10}&filter=statuscode:200&collapse=urlkey&limit=4415&showResumeKey=true&resumeKey=com%2Cimdb%2Cus%29%2Fname%2Fnm
+
+view-source:https://web.archive.org/cdx/search/cdx?url=*.imdb.com/name/nm*&fl=urlkey,timestamp&to=20031002003335&filter=urlkey:com,imdb(,us)?\u0029/name/nm\d{7,10}&filter=statuscode:200&collapse=urlkey&limit=4415&showResumeKey=true&resumeKey=com%2Cimdb%2Cus%29%2Fname%2Fnm0505730+20030920144149
+
+
+
+
+
+
+
+view-source:https://web.archive.org/cdx/search/cdx?url=*.imdb.com/name/nm*&fl=urlkey,timestamp&to=20031002003335&filter=urlkey:com,imdb(,us)?\u0029/name/nm\d{7,10}&filter=statuscode:200&collapse=urlkey&limit=100&showResumeKey=true&resumeKey=com%2Cimdb%29%2Fname%2Fnm
+
+
+
+
+https://web.archive.org/cdx/search/cdx?url=*.imdb.com/name/nm*&fl=urlkey,timestamp&to=2004&filter=urlkey:com,imdb(,us)?\u0029/name/nm\d{7,10}&filter=statuscode:200&collapse=urlkey&limit=100&showResumeKey=true&resumeKey=com%2Cimdb%2Cus%29%2Fname%2Fnm
+
+
+
+
+
+https://web.archive.org/cdx/search/cdx?url=*.imdb.com/name/nm*&resumeKey=com%2Cimdb%2Cus%29%2Fname%2Fnm&filter=urlkey:com,imdb(,us)?\u0029/name/nm\d{7,10}&showResumeKey=true&limit=10000&collapse=urlkey&to=2002
+
+https://web.archive.org/cdx/search/cdx?url=us.imdb.com/name/nm*&resumeKey=com%2Cimdb%2Cus%29%2Fname%2Fnm&filter=urlkey:com,imdb,us\u0029/name/nm\d{7,10}&showResumeKey=true&limit=10000&collapse=urlkey&to=2002
+
+
+https://web.archive.org/cdx/search/cdx?url=*.imdb.com/name/nm*&resumeKey=com%2Cimdb%29%2Fname%2Fnm&filter=urlkey:com,imdb\u0029/name/nm\d{7,10}&showResumeKey=true&limit=10000&collapse=urlkey
+
+https://web.archive.org/cdx/search/cdx?url=us.imdb.com/name/nm*&resumeKey=com%2Cimdb%2Cus%29%2Fname%2Fnm&filter=urlkey:com,imdb,us\u0029/name/nm\d{7,10}&showResumeKey=true&limit=10000&collapse=urlkey
+
+
+https://web.archive.org/cdx/search/cdx?url=*.imdb.com/name/nm*&resumeKey=com%2Cimdb%29%2Fname%2Fnm&filter=urlkey:com,imdb\u0029/name/nm\d{7,10}&showResumeKey=true&limit=10000&collapse=urlkey
+
+https://web.archive.org/cdx/search/cdx?url=http://www.imdb.com/name/nm026*&resumeKey=com%2Cimdb%29%2Fname%2Fnm026&limit=100&filter=timestamp:20040404.*
+
+
+		nm0000001	nm0003609
+view-source:https://web.archive.org/cdx/search/cdx?url=us.imdb.com/*&limit=3000&fl=urlkey,timestamp&filter=urlkey:com,imdb,us\u0029/name/nm\d{7}&filter=statuscode:200&collapse=urlkey&showResumeKey=true
+
+		nm0003609	nm0009979
+	&resumeKey=com%2Cimdb%2Cus%29%2Fname%2Fnm0003609+20031020113454
+		nm0009980	nm0024463
+	com%2Cimdb%2Cus%29%2Fname%2Fnm0009979+20041112090325
+		nm0024473	nm0039452
+	com%2Cimdb%2Cus%29%2Fname%2Fnm0024463+20050912090932
+		nm0039452	nm0054396
+	com%2Cimdb%2Cus%29%2Fname%2Fnm0039452+20041220204503
+		nm0054397	nm0068383
+	com%2Cimdb%2Cus%29%2Fname%2Fnm0054396+20040512210621
+		nm0068385	nm0083111
+	com%2Cimdb%2Cus%29%2Fname%2Fnm0068383+20040103003336
+		nm0083112	nm0097182
+	com%2Cimdb%2Cus%29%2Fname%2Fnm0083111+2004010408330%3A
+		nm0097183	nm0111498
+	com%2Cimdb%2Cus%29%2Fname%2Fnm0097182+20060307175343
+
+
+	3172	(-nm0003928)
+view-source:https://web.archive.org/cdx/search/cdx?url=us.imdb.com/*&fl=urlkey,timestamp&filter=urlkey:com,imdb,us\u0029/name/nm\d{7}&filter=statuscode:200&collapse=urlkey
+
+view-source:https://web.archive.org/cdx/search/cdx?url=imdb.com/*&limit=1758&fl=urlkey,timestamp&filter=urlkey:com,imdb\u0029/name/nm\d{7}&filter=statuscode:200&collapse=urlkey&showResumeKey=true
+
+
+
+view-source:https://web.archive.org/cdx/search/cdx?url=imdb.com/*&fl=urlkey,timestamp&filter=urlkey:com,imdb\u0029/name/nm\d{7}&filter=statuscode:200&collapse=urlkey
+
+view-source:https://web.archive.org/cdx/search/cdx?url=imdb.com/*&filter=urlkey:com,imdb\u0029/name/nm\d{8}&filter=statuscode:200&collapse=urlkey
+
+
+
+
+
+
+https://web.archive.org/cdx/search/cdx?url=imdb.com/*&limit=1000&from=1990&to=2014&filter=urlkey:com,imdb\u0029/name/nm\d{7,9}&filter=statuscode:200&collapse=urlkey&showResumeKey=true
+
+
+
+
+
+
+
+
+
+
+view-source:https://web.archive.org/cdx/search/cdx?url=us.imdb.com/*&from=1980&to=2005&filter=urlkey:com,imdb,us\u0029/.*nm\d{7,8}&filter=statuscode:200&collapse=urlkey&limit=50
+
+view-source:https://web.archive.org/cdx/search/cdx?url=imdb.com/*&from=1980&to=2016010&filter=urlkey:com,imdb\u0029/name/nm\d{7,8}&filter=statuscode:200&collapse=urlkey&limit=50
+
+view-source:https://web.archive.org/cdx/search/cdx?url=imdb.com/*&filter=urlkey:com,imdb\u0029/name/nm\d{7,8}&filter=statuscode:200&collapse=urlkey&limit=&showResumeKey=true
+
+
+
+view-source:https://web.archive.org/cdx/search/cdx?url=imdb.com/*&filter=urlkey:com,imdb\u0029/name/nm\d{7,8}&filter=statuscode:200&collapse=urlkey&limit=18000&showResumeKey=true
+
+	nm0000001	20160211212513
+	nm0560684	20160130195709
+
+&resumeKey=com%2Cimdb%29%2Fname%2Fnm0560684+2016013019570%3A
+
+	nm0560684	20161102164632
+	nm0579531	20061022004513
+
+&resumeKey=com%2Cimdb%29%2Fname%2Fnm0579531+20061022004514
+
+	nm0579531	20061224101819
+	nm0598324	20170216042722
+
+&resumeKey=com%2Cimdb%29%2Fname%2Fnm0598324+20170216042723
+
+	nm0598325	20170216042727
+	nm0617202	20050105184621
+
+&resumeKey=com%2Cimdb%29%2Fname%2Fnm0617202+20050105184622
+
+	nm0617202	20050404144913
+	nm0635968	20170219110418
+
+&resumeKey=com%2Cimdb%29%2Fname%2Fnm0635968+20170219110419
+
+
+
+view-source:https://web.archive.org/cdx/search/cdx?url=imdb.com/*&filter=urlkey:com,imdb\u0029/name/nm\d{8}&filter=statuscode:200&collapse=urlkey&limit=18000&showResumeKey=true&resumeKey=com%2Cimdb%29%2Fname%2Fnm14000000
+
+	nm14000005
+	nm15445217

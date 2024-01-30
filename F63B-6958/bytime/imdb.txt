@@ -1,0 +1,14 @@
+https://web.archive.org/web/20180325010002/datasets.imdbws.com/name.basics.tsv.gz
+
+https://web.archive.org/web/20180325010007/datasets.imdbws.com/title.akas.tsv.gz
+
+https://web.archive.org/web/20180325010009/datasets.imdbws.com/title.basics.tsv.gz
+
+https://web.archive.org/web/20180325010028/datasets.imdbws.com/title.crew.tsv.gz
+
+https://web.archive.org/web/20180325010101/datasets.imdbws.com/title.episode.tsv.gz
+
+https://web.archive.org/web/20180325010102/datasets.imdbws.com/title.principals.tsv.gz
+
+https://web.archive.org/web/20180325010105/datasets.imdbws.com/title.ratings.tsv.gz
+

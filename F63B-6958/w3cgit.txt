@@ -1,0 +1,280 @@
+web.archive.org/cdx/search/cdx?url=github.com/w3c/*&from=2012&to=20xx&fl=urlkey,timestamp
+
+	web.archive.org/cdx/search/cdx?url=github.com/w3c/*&from=201604030200&to=20160403023629&fl=urlkey,timestamp
+
+/w3c/tidy-html5				20121104232007		1
+/w3c/html-testsuite			20121223103002		2
+
+					20131021054823
+/w3c/aria-in-html						3
+/w3c/testtwf-website						4
+/w3c/csswg-drafts						5
+/w3c/validators							6
+/w3c/html-tools							7
+/w3c/dom							8
+/w3c/filesystem-api						9
+/w3c/testtwf-specs						10
+/w3c/html-api-map						11
+/w3c/i18n-checker						12
+/w3c/packaged-webapps						13
+/w3c/its-2.0-testsuite						14
+/w3c/its-2.0-testsuite-inputdata				15
+/w3c/pywebsocket						16
+/w3c/FileAPIv2							17
+/w3c/fingerprinting-guidance					18
+/w3c/css-validator						19
+/w3c/nfc							20
+/w3c/subline							21
+/w3c/automotive-bg						22
+/w3c/rdfvalidator-ng						23
+/w3c/Amaya							24
+/w3c/testing-task-forces					25
+/w3c/libwww							26
+/w3c/web-ecmascript						27
+/w3c/testing-how-to						28
+/w3c/html-reference						29
+/w3c/sideshowbarker/htmlr					30
+/w3c/css-validator-standalone					31
+/w3c/validator.nu-standalone					32
+/w3c/css3-display						33
+/w3c/banana-rdf				(20131203204001)	34
+/w3c/html				(20140330090731)	35
+/w3c/web-platform-tests			(20140719175545)	36
+/w3c/wptserve				(20140806162322)	37
+/w3c/csswg-test				(20140807021315)	38
+/w3c/testharness.js			(20140807024852)	39
+/w3c/manifest				(20140816043229)	40
+/w3c/wcag				(20140901181548)	41
+/w3c/web-performance			(20160104062007)	42
+
+/w3c/webappsec				20140903010938		43
+
+					20141223223241
+/w3c/editing-explainer						44
+/w3c/dpub-metadata						45
+/w3c/respec							46
+/w3c/specberus							47
+/w3c/aria							48
+/w3c/csvw							49
+/w3c/resource-hints						50
+/w3c/server-timing						51
+/w3c/encrypted-media						52
+/w3c/preload							53
+/w3c/UAAG							54
+/w3c/frame-timing			(20150204212543)	55
+
+/w3c/webcomponents			20150205021731		56
+/w3c/webrtc-pc				20150221070633		57
+/w3c/wptrunner				20150303034459		58
+/w3c/web-animations			20150316221050		59
+/w3c/gamepad				20150416015539		60
+/w3c/webvtt				20150524211857		61
+/w3c/mobile-checker			20150812023738		62
+/w3c/css-houdini-drafts			20150914195609		63
+/w3c/mobile-web-browser-emulator	20150930043131		64
+/w3c/webdriver				20151019020928		65
+/w3c/html-landscape			20151028105558		66
+/w3c/resource-timing			20151230023122		67
+/w3c/navigation-timing			20160103010038		68
+/w3c/webpayments			20160112230654		69
+/w3c/svgwg				20160116160120		70
+/w3c/a11yslackers			20160127124548		71
+/w3c/indexeddb				20160130193734		72
+/w3c/websec				20160207130342		73
+/w3c/echidna				20160212054925		74
+/w3c/midgard				20160212071653		75
+
+					20160212132316
+/w3c/dwbp
+/w3c/github-notify-ml-config
+/w3c/webappsec-upgrade-insecure-requests
+/w3c/wai-showcase-examples
+/w3c/imsc
+/w3c/dpub-pwp-loc
+/w3c/wai-wcag-quickref
+/w3c/wai-dynamic-planning
+/w3c/webappsec-credential-management
+/w3c/presentation-api
+/w3c/data-shapes
+/w3c/low-vision-a11y-tf
+/w3c/i18n-drafts
+
+/w3c/wai-quick-start			20160220102739
+/w3c/wcag-em-report-tool		20160401134308
+/w3c/sensors				20160401230112
+/w3c/pointerevents			20160402075802
+/w3c/github_sync			20160402075953
+/w3c/web-platform			20160402080343
+/w3c/event-source			20160402115240
+/w3c/test-results			20160402115406
+/w3c/webstorage				20160402115408
+/w3c/push-api				20160402115414
+/w3c/ime-api				20160402115604
+/w3c/quota-api				20160402115607
+
+					20160402115612
+/w3c/unicode-xml
+/w3c/browser-payment-api
+/w3c/webvr
+/w3c/wpt-tools
+/w3c/dpub-accessibility
+/w3c/mediacapture-main
+/w3c/wdclient
+/w3c/webpayments-flows
+/w3c/charmod-norm
+/w3c/wot-arduino
+/w3c/permissions
+
+/w3c/testharness			20160402115938
+/w3c/charter-webperf			20160402120121
+/w3c/spork				20160402124456
+/w3c/testtwf-website-src		20160402125935
+/w3c/uievents				20160402134143
+/w3c/uievents-code			20160402134239
+/w3c/workers				20160402134246
+/w3c/dom-level-3-events-code		20160402134232
+/w3c/screen-orientation			20160402144433
+/w3c/validator-suite			20160402151714
+/w3c/smoothness				20160402152629
+/w3c/infobot				20160402153716
+/w3c/webstorage-2nd-edition		20160402153757
+/w3c/fxtf-drafts			20160402165719
+/w3c/webappsec-csp			20160402170155
+
+					20160402170537
+/w3c/WebPlatformWG
+/w3c/web-annotation
+/w3c/coga
+
+/w3c/selection-api			20160402174014
+/w3c/editing				20160402193033
+/w3c/elements-of-html			20160403011124
+/w3c/wpt				20160403011838
+
+					20160403023629
+/w3c/webappsec-cowl
+/w3c/webcrypto
+/w3c/omn
+
+/w3c/clipboard-apis			20160403121730
+/w3c/css-validator-fork			20160403122443
+/w3c/charter-html			20160403124143
+/w3c/ttwf-docs				20160403152940
+/w3c/link-checker			20160403172716
+/w3c/remote-playback			20160403225932
+/w3c/w3c.github.io			20160403225929
+
+/w3c/dom-parsing			20160404005002
+/w3c/rdf-tests				20160404005625
+/w3c/webappsec-referrer-policy		20160404104116
+/w3c/mailing-list-archives		20160404104222
+/w3c/tr-design				20160404111723
+/w3c/hanuman				20160404114351
+/w3c/legacy-markup-validator		20160405003006
+/w3c/markup-validator			20160405003010
+/w3c/webmessaging			20160405105601
+/w3c/html-cr-exit			20160405140439
+/w3c/media-source			20160405210658
+/w3c/uievents-key			20160406142523
+/w3c/fileapi				20160406144145
+/w3c/the-library			20160406144955
+/w3c/touch-events			20160407015901
+/w3c/
+/w3c/
+/w3c/
+/w3c/
+/w3c/
+
+
+					20161008062355
+
+page=2					20170820005705
+
+	--------------------------------------------------------------------------------
+
+web.archive.org/cdx/search/cdx?url=github.com/w3c/c*&from=2012&to=20170820005705&fl=urlkey,timestamp
+
+			489
+2dcontext
+a11yslackers
+accelerometer
+accessibility-intro
+activitypub
+activitystreams
+alreq
+ambient-light
+animation-timing
+apa			10
+apiary
+aria
+aria-in-html
+aria-practices
+ash-nazg
+automotive
+banana-rdf
+battery
+beacon
+bp-i18n-specdev		20
+browser-payment-api
+cg-charter
+charmod-norm
+charter-drafts
+charter-html
+charter-webperf
+clipboard-apis
+clreq
+coga
+colorweb-cg		30
+css-a11y
+css-aam
+css-aria
+css-checker
+css-houdini-drafts
+css-validator
+css-validator-fork
+csswg
+csswg-drafts
+csswg-test		40
+csvw
+data-sh
+data-shapes
+deviceorientation
+dnt
+dom
+dom-level-3-events-code
+dom-level-3-events-key
+dom-parsing
+dpub			50
+dpub-accessibility
+dpub-annotation
+dpub-charter
+dpub-content-and-markup
+dpub-identifiers
+dpub-metadata
+dpub-pagination
+dpub-pwp
+dpub-pwp-loc
+dpub-pwp-ucr		60
+dpub-stem
+dpubwg-charter
+dwbp
+dxwg
+easychecks
+echidna
+editing
+editing-explainer
+elements-of-html
+elreq			70
+
+
+web.archive.org/cdx/search/cdx?url=github.com/w3c/*&from=2012&to=2012&fl=urlkey,timestamp
+
+
+
+rdf-tests		20160404005625
+rdfvalidator-ng		20170714000221
+rdfa-md-service		20180613013726
+
+
+
+web.archive.org/cdx/search/cdx?url=github.com/w3c/*&from=2012&to=2023&fl=urlkey,timestamp&filter=statuscode:200&collapse=urlkey:38

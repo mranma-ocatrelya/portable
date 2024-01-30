@@ -1,0 +1,6 @@
+view-source:https://web.archive.org/cdx/search/cdx?url=imdb.com/name/nm*&filter=statuscode:200&filter=urlkey:com,imdb\u0029/name/nm\d{7,8}&collapse=urlkey&showResumeKey=true&limit=
+
+view-source:https://web.archive.org/cdx/search/cdx?url=us.imdb.com/name/nm*&filter=statuscode:200&filter=urlkey:com,imdb,us\u0029/name/nm\d{7,8}&collapse=urlkey&showResumeKey=true&limit=
+
+
+view-source:https://web.archive.org/cdx/search/cdx?url=us.imdb.com/name/nm*&filter=statuscode:200&filter=urlkey:com,imdb,us\u0029/name/nm\d{7,8}&collapse=urlkey&showResumeKey=true&limit=25000&resumeKey=com%2Cimdb%2Cus%29%2Fname%2Fnm3000000

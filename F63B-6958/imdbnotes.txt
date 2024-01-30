@@ -1,0 +1,39 @@
+web.archive.org/web/20180325010002if_/https://datasets.imdbws.com/name.basics.tsv.gz
+
+web.archive.org/cdx/search/cdx?url=imdb.com/name/nm012*&from=200201&to=200612
+
+
+	nm0000001	Fred Astaire	-	nm0000082	Victor Young
+	nm0000095	Woody Allen	-	nm0000250	Renée Zellweger
+	nm0000254	Isabelle Adjani	-	nm0000709	Robert Zemeckis
+		nm0000523		20021201174345
+
+	nm0000714	Willie Aames	-	nm0001880	Edward Zwick
+		nm0001172		20021218135351
+
+	nm0001898	Bryan Adams	-	nm0002150	Billy Idol
+	nm0004691	Aaliyah		-	nm0005575	Ian Ziering
+	nm0005630	Thomas E. Ackerman	nm0005936	Vilmos Zsigmond
+	nm0005939	Elner Åkesson	-	nm0006345	Eric Zeisl
+	nm0007273	Mrs. A'Costa	-	nm0959272	Roberto Zürner
+		nm0020694		20021218135421
+
+	nm0959273	Mar Álvarez	-	nm0960384	Margot Ütvar
+	nm0960453	Abaddon		-	nm0962012	Gene Zwozdesky
+	nm0962024	Khalid Aboujaafar	nm0962096	Mike Zitello
+	nm0962097	Dario Acosta	-	nm0962470	Cun Zhuang
+	nm0962474	Azura Adams	-	nm0962638	Annette Zwart
+	nm0962641	Suzanne Austin	-	nm0962702	Ben White
+	nm0962706	Hans Adlerstein	-	nm0962718	Tanya Scott
+	nm0962734	Deanna Brown	-	nm0962767	Michael Zamboni
+
+
+			recheck these:
+		nm0119613		20021218141415
+		nm0132832		20030104201204
+		nm0134244		20030118212302
+		nm0144657		20030110220410
+
+
+
+https://web.archive.org/cdx/search/cdx?url=imdb.com/name/nm*&from=2002&to=200310&filter=urlkey:com,imdb\u0029/name/nm......./*
