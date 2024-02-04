@@ -1,0 +1,30 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>BuddhiVidhaatre</sitename>
+    <dbname>buddhividhaatre</dbname>
+    <base>http://localhost/buddhividhaatre/index.php/Main_Page</base>
+    <generator>MediaWiki 1.40.2</generator>
+    <case>case-sensitive</case>
+  </siteinfo>
+  <!--page>
+    <title>Item:Qxxx</title>
+    <ns>860</ns>
+    <revision>
+      <text>{"type":"item","id":"Qxxx","labels":{"en":{"language":"en","value":"xxx"},"en-us":{"language":"en-us","value":"xxx"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+    </revision>
+  </page-->
+  <!--page>
+    <title>Property:P162023374</title>
+    <ns>122</ns>
+    <revision>
+      <text>{"type":"property","datatype":"wikibase-sense","id":"P162023374","labels":{"en":{"language":"en","value":"a"},"en-us":{"language":"en-us","value":"a"}},"descriptions":[],"aliases":[],"claims":[]}</text>
+    </revision>
+  </page-->
+  <page>
+    <title>Lexeme:L690177977</title>
+    <ns>146</ns>
+    <revision>
+      <text>{"type":"lexeme","id":"L690177977","lemmas":{"en":{"language":"en","value":"2003-01-23T00:00:00Z"}},"lexicalCategory":"Q1","language":"Q1","claims":[],"nextFormId":1,"nextSenseId":1,"forms":[],"senses":[]}</text>
+    </revision>
+  </page>
+</mediawiki>
