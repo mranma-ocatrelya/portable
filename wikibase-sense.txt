@@ -29,7 +29,13 @@ org,ifla)/files/assets/cataloguing/frbr/pressoo_v0.5.pdf>xpdftotext would use th
 	562 - org, ; 3240 - ifla)/ ; 23417 - files/ ; 0 - a
 	and has a character count of 275412
 "Z12 Issuing Rule" = 059011
-	its SID = 5623240234170
+	its SID = 5623240234170059011
+
+noun.dat from wordnetcode.princeton.edu/1.2/1.2.tar.gz has a character count of 4040394:
+	319 - edu, ; 663501855 - princeton
+"04067105-n wordsense-epoch-noun-1" = 4031983
+	its SID = 3196635018554031983
+
 
 
 "Y31 was superseded by"				= 101522
@@ -86,8 +92,8 @@ further urlkey digits 0-9
 27,	Y14 substituted with (became surrogate through)
 29,	Y15 replaced (was replaced through)
 31,	Y16 replaced with (was introduced through)
-33,	Y17 launched (was launched through)
-35,	Y18 ended (was ended through)
+33,34	Y17 launched (was launched through)
+35,36	Y18 ended (was ended through)
 37,38	Y19 concerned (was the concern of)
 39,40	Y20 foresees type (is type foreseen in)
 41		Y20.1 has type: E55 Type
@@ -105,16 +111,23 @@ further urlkey digits 0-9
 60,	Y28 foresees URL (is URL foreseen in)
 62,	Y29 evolved into (continues)
 64,	Y30 was partially continued by (was separated from)
-66,	Y31 was superseded by (superseded)
+66,67	Y31 was superseded by (superseded)
 68,69	Y32 was split into (resulted from splitting)
 70	Y33 was merged with
 71,72	Y34 was merged to form (resulted from merging)
 73,	Y35 was absorbed in (was enhanced by absorbing)
 75,	Y36 had surrogate (was surrogate for)
-77,	Y37 has former or current issuing rule (is former or current issuing rule of)
-79,	Y38 has current issuing rule (is current issuing rule of)
-	Y39 is enhanced by monograph (enhances serial)
-		Y39.1 has type: E55 Type
-	Y40 enhances monograph (is enhanced by serial)
-		Y40.1 has type: E55 Type
+77,78	Y37 has former or current issuing rule (is former or current issuing rule of)
+79,80	Y38 has current issuing rule (is current issuing rule of)
+81,82	Y39 is enhanced by monograph (enhances serial)
+83		Y39.1 has type: E55 Type
+84,85	Y40 enhances monograph (is enhanced by serial)
+86		Y40.1 has type: E55 Type
+87,88	Y41 has former or current area of publication (is former or current area of publication of)
+89,	Y42 has current area of publication (is current area of publication of)
+91,92	Y43 is indicative of (is exemplified by)
 
+
+Z10 Sequencing Pattern Y43i is exemplified by F23 Expression Fragment
+
+"1981-03-10T19:53:44.0 to 1994-10-19T20:32:33.2" Y43i "P1 to P2147483647"
