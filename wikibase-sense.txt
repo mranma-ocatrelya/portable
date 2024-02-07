@@ -1,0 +1,120 @@
+web.archive.org/web/20150322004946id_/ifla.org/node/9452
+
+
+	9223372036854775807 SID possible for each timestamp ss LID
+
+
+if org,w3)/TR/2003/WD-rdf-schema-20030123/xxxx uses
+	web.archive.org/web/20030208003015id_/w3.org/TR/2003/WD-rdf-concepts-20030123/
+	for its view-source character counting, then the "xxxx" total is 92341
+this would have left xxxxxxxxxxxxxx (14 digits) for representing the urlkey:
+	562 - org, ; 93 - w3) ; 86 - TR/ ; 2003 ; 916 - WD-r
+however, this urlkey with this timestamp may include the following also:
+	web.archive.org/web/20030208005014id_/w3.org/TR/2003/WD-rdf-mt-20030123/
+		with "xxxx" = 187130
+	web.archive.org/web/20030208004914id_/w3.org/TR/2003/WD-rdf-primer-20030123/
+		with "xxxx" = 322266 (509396)
+	web.archive.org/web/20030208005153id_/w3.org/TR/2003/WD-rdf-schema-20030123/
+		with "xxxx" = 79408
+	web.archive.org/web/20030208004059id_/w3.org/TR/2003/WD-rdf-syntax-grammar-20030123/
+		with "xxxx" = 197362
+	web.archive.org/web/20030208010048id_/w3.org/TR/2003/WD-rdf-testcases-20030123/
+		with "xxxx" = 193705 (1072212)
+where such additions would use two more digits, making the urlkey:
+	562 - org, ; 93 - w3)/ ; 86 - TR/ ; 2003 ; 9 - W
+"rdfs:Class" (Appendix A of RDF Schema) is located at character (509396)+66158 = 575554, so:
+	its SID = 5629386200390575554
+
+org,ifla)/files/assets/cataloguing/frbr/pressoo_v0.5.pdf>xpdftotext would use the urlkey:
+	562 - org, ; 3240 - ifla)/ ; 23417 - files/ ; 0 - a
+	and has a character count of 275412
+"Z12 Issuing Rule" = 059011
+	its SID = 5623240234170
+
+
+"Y31 was superseded by"				= 101522
+Y31i "(superseded)"				= 101544
+"Y37 has former or current issuing rule"	= 106332
+Y37i "(is former or current issuing rule of)"	= 
+"Y38 has current issuing rule"			= 
+Y38i "(is current issuing rule of)"		= 
+
+
+first digit 1-9
+			1,2,3
+	1	a
+	2	bc
+	3	def
+			5,4,3
+	4	ghijk
+	5	lmno
+	6	pqr
+			1,1,6
+	7	s
+	8	t
+	9	uvwxyz
+
+further urlkey digits 0-9
+
+			3,2,3,2,3,2
+	0	abc
+	1	de
+	2	fgh
+	3	ij
+	4	klm
+	5	no
+			same as first digit
+	6	pqr
+	7	s
+	8	t
+	9	uvwxyz
+
+
+1,2	Y1 provided a continuation to (was continued through)
+3,4	Y2 initiated as continuation (was initiated as continuation through)
+5,6	Y3 provided a replacement to (was replaced through)
+7,8	Y4 initiated as replacement (was initiated as replacement through)
+9,10	Y5 split (was split through)
+11,12	Y6 initiated (resulted from split)
+13,14	Y7 merged (was merged through)
+15,16	Y8 merged into (resulted from merger)
+17,18	Y9 absorbed (was absorbed through)
+19,20	Y10 enhanced (was enhanced through)
+21,	Y11 separated (was separated through)
+23,	Y12 separated from (was diminished through)
+25,	Y13 provided surrogate to (had surrogate through)
+27,	Y14 substituted with (became surrogate through)
+29,	Y15 replaced (was replaced through)
+31,	Y16 replaced with (was introduced through)
+33,	Y17 launched (was launched through)
+35,	Y18 ended (was ended through)
+37,38	Y19 concerned (was the concern of)
+39,40	Y20 foresees type (is type foreseen in)
+41		Y20.1 has type: E55 Type
+42,43	Y21 foresees use of language (is language foreseen in)
+44		Y21.1 mode of use: E55 Type
+45,46	Y22 foresees sequencing pattern (is sequencing pattern foreseen in)
+47,48	Y23 foresees dimension (is dimension foreseen in)
+49,50	Y24 foresees use of title (is title foreseen in)
+51		Y24.1 has type: E55 Type
+52,53	Y25 foresees association with (foresees to be associated with)
+54		Y25.1 has type: E55 Type
+55,56	Y26 foresees other edition (foresees to be another edition of)
+57		Y26.1 has type: E55 Type
+58,59	Y27 foresees translation in (foresees translation of)
+60,	Y28 foresees URL (is URL foreseen in)
+62,	Y29 evolved into (continues)
+64,	Y30 was partially continued by (was separated from)
+66,	Y31 was superseded by (superseded)
+68,69	Y32 was split into (resulted from splitting)
+70	Y33 was merged with
+71,72	Y34 was merged to form (resulted from merging)
+73,	Y35 was absorbed in (was enhanced by absorbing)
+75,	Y36 had surrogate (was surrogate for)
+77,	Y37 has former or current issuing rule (is former or current issuing rule of)
+79,	Y38 has current issuing rule (is current issuing rule of)
+	Y39 is enhanced by monograph (enhances serial)
+		Y39.1 has type: E55 Type
+	Y40 enhances monograph (is enhanced by serial)
+		Y40.1 has type: E55 Type
+

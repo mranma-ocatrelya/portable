@@ -24,7 +24,7 @@
     <title>Lexeme:L690177977</title>
     <ns>146</ns>
     <revision>
-      <text>{"type":"lexeme","id":"L690177977","lemmas":{"en":{"language":"en","value":"2003-01-23T00:00:00Z"}},"lexicalCategory":"Q1","language":"Q1","claims":[],"nextFormId":1,"nextSenseId":1,"forms":[],"senses":[]}</text>
+      <text>{"type":"lexeme","id":"L690177977","lemmas":{"en":{"language":"en","value":"2003-01-23T00:00:00"}},"lexicalCategory":"Q1","language":"Q1","claims":[],"nextFormId":1,"nextSenseId":5629386200390575555,"forms":[],"senses":[{"id":"L690177977-S5629386200390575554","glosses":{"en":{"language":"en","value":"rdfs:Class"}},"claims":[]}]}</text>
     </revision>
   </page>
 </mediawiki>
