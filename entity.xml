@@ -14,17 +14,38 @@
     </revision>
   </page-->
   <!--page>
-    <title>Property:P162023374</title>
+    <title>Property:P921074761</title>
     <ns>122</ns>
     <revision>
-      <text>{"type":"property","datatype":"wikibase-sense","id":"P162023374","labels":{"en":{"language":"en","value":"a"},"en-us":{"language":"en-us","value":"a"}},"descriptions":[],"aliases":[],"claims":[]}</text>
+      <text>{"type":"property","datatype":"wikibase-sense","id":"P921074761","labels":{"en":{"language":"en","value":"Y18 ended"},"en-us":{"language":"en-us","value":"Y18 ended"}},"descriptions":[],"aliases":[],"claims":[]}</text>
+    </revision>
+  </page-->
+  <!--page>
+    <title>Lexeme:Lxxx</title>
+    <ns>146</ns>
+    <revision>
+      <text>{"type":"lexeme","id":"Lxxx","lemmas":{"en":{"language":"en","value":"xxx"}},"lexicalCategory":"Q1","language":"Q1","claims":[],"nextFormId":1,"nextSenseId":1,"forms":[],"senses":[]}</text>
     </revision>
   </page-->
   <page>
     <title>Lexeme:L858993459</title>
     <ns>146</ns>
     <revision>
-      <text>{"type":"lexeme","id":"L858993459","lemmas":{"en":{"language":"en","value":"2008-05-29T21:11:22"}},"lexicalCategory":"Q1","language":"Q1","claims":[],"nextFormId":1,"nextSenseId":8000000000000000001,"forms":[],"senses":[{"id":"L858993459-S8000000000000000000","glosses":{"en":{"language":"en","value":"L858993459.8"}},"claims":[]}]}</text>
+      <text>{"type":"lexeme","id":"L858993459","lemmas":{"en":{"language":"en","value":"2008-05-29T21:11:22"}},"lexicalCategory":"Q1","language":"Q1","claims":[],"nextFormId":1,"nextSenseId":3944964068304160219,"forms":[],"senses":[{"id":"L858993459-S3944964068304160218","glosses":{"en":{"language":"en","value":"L858993459.8"}},"claims":[]}]}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Lexeme:L1288490189</title>
+    <ns>146</ns>
+    <revision>
+      <text>{"type":"lexeme","id":"L1288490189","lemmas":{"en":{"language":"en","value":"2022-01-07T21:50:12"}},"lexicalCategory":"Q1","language":"Q1","claims":[],"nextFormId":1,"nextSenseId":3944964068304160213,"forms":[],"senses":[{"id":"L1288490189-S3944964068304160210","glosses":{"en":{"language":"en","value":"L1288490189.0"}},"claims":{"P162023374":[{"mainsnak":{"snaktype":"value","property":"P162023374","hash":"ff523f4ad28a3e8934073accaa4d0cdc11911267","datavalue":{"value":{"entity-type":"sense","id":"L1043208377-S5623240234170052908"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P921074761":[{"snaktype":"value","property":"P921074761","hash":"51a70eea7a2552ad831aa77cd01017ff6257163e","datavalue":{"value":{"entity-type":"sense","id":"L858993459-S8000000000000000000"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P921074761"],"id":"L1288490189-S3944964068304160210$2d86fdbb-4d2d-4435-d102-f222b88193ce","rank":"normal"}]}},{"id":"L1288490189-S3944964068304160212","glosses":{"en":{"language":"en","value":"L1288490189.2"}},"claims":[]}]}</text>
+    </revision>
+  </page>
+  <page>
+    <title>Lexeme:L1717986918</title>
+    <ns>146</ns>
+    <revision>
+      <text>{"type":"lexeme","id":"L1717986918","lemmas":{"en":{"language":"en","value":"2035-08-18T22:29:01"}},"lexicalCategory":"Q1","language":"Q1","claims":[],"nextFormId":1,"nextSenseId":3944964068304160215,"forms":[],"senses":[{"id":"L1717986918-S3944964068304160214","glosses":{"en":{"language":"en","value":"L1717986918.4"}},"claims":[]}]}</text>
     </revision>
   </page>
 </mediawiki>

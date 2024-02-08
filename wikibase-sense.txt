@@ -1,3 +1,8 @@
+
+	NEED TO DO:	FRBRoo R67 has part (forms part of)
+			Pressoo Y31 was superseded by (superseded)
+
+
 web.archive.org/web/20150322004946id_/ifla.org/node/9452
 
 
@@ -25,10 +30,15 @@ where such additions would use two more digits, making the urlkey:
 "rdfs:Class" (Appendix A of RDF Schema) is located at character (509396)+66158 = 575554, so:
 	its SID = 5629386200390575554
 
+	LID = 1043208377 (2014-04-01T00:00:00)
 org,ifla)/files/assets/cataloguing/frbr/pressoo_v0.5.pdf>xpdftotext would use the urlkey:
 	562 - org, ; 3240 - ifla)/ ; 23417 - files/ ; 0 - a
 	and has a character count of 275412
-"Z12 Issuing Rule" = 059011
+"Z6 Starting of Publication"	= 051599
+	its SID = 5623240234170051599
+"Z7 Ending of Publication"	= 052908
+	its SID = 5623240234170052908
+"Z12 Issuing Rule"		= 059011
 	its SID = 5623240234170059011
 
 noun.dat from wordnetcode.princeton.edu/1.2/1.2.tar.gz has a character count of 4040394:
@@ -36,6 +46,14 @@ noun.dat from wordnetcode.princeton.edu/1.2/1.2.tar.gz has a character count of 
 "04067105-n wordsense-epoch-noun-1" = 4031983
 	its SID = 3196635018554031983
 
+	LID = 1303531577 (2022-07-01T00:00:00)
+org,cidoc-crm)/frbroo/sites/default/files/LRMoo_V0.9(draft for WLIC 2022).pdf>xpdftotext would use the urlkey:
+	562 - org, ; 03150064 - cidoc-crm ; 26 - fr
+	and has a character count of 196198
+"F18 Serial Work" = 073640
+	its SID = 5620315006426073640
+"F23 Expression Fragment" = 189778
+	its SID = 5620315006426189778
 
 
 "Y31 was superseded by"				= 101522
@@ -45,6 +63,9 @@ Y37i "(is former or current issuing rule of)"	=
 "Y38 has current issuing rule"			= 
 Y38i "(is current issuing rule of)"		= 
 
+
+urlkey for own (locally same) wiki page, character 0
+	3944964 - fullurl ; 06830416021 - ARTICLEPAGE = 3944964068304160210
 
 first digit 1-9
 			1,2,3
