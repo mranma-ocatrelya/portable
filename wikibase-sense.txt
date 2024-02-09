@@ -1,5 +1,5 @@
 
-	NEED TO DO:	FRBRoo R67 has part (forms part of)
+	NEED TO DO:	FRBRoo R67 has part (forms part of)	or component
 			Pressoo Y31 was superseded by (superseded)
 
 
@@ -97,6 +97,80 @@ further urlkey digits 0-9
 	9	uvwxyz
 
 
+1,2	R1 is logical successor of (has successor)
+3,4	R2 is derivative of (has derivative)
+5		R2.1 has type: E55 Type
+6,7	R3 is realised in (realises)
+8,9	R4 embodies (is embodied in)
+10,11	R5 has component (is component of)
+12,13	R6 carries (is carried by)
+14,15	R7 is materialization of (is materialized in)
+16,17	R8 combines (is combined to form)
+18,19	R9 is realised in (realises)
+20,21	R10 has member (is member of)
+22,	R11 has issuing rule (is issuing rule of)
+24,	R12 is realised in (realises)
+26,	R13 is realised in (realises)
+not in current version		R14 incorporates (is incorporated in)
+28,	R15 has fragment (is fragment of)
+30,	R16 created (was created by)
+32,	R17 created (was created by)
+34,	R18 created (was created by)
+36,	R19 created a realisation of (was realised through)
+38,	R20 recorded (was recorded through)
+40,	R21 created (was created through)
+42,	R22 created a realisation of (was realised through)
+44,	R23 created a realisation of (was realised through)
+46,	R24 created (was created through)
+48,	R25 performed (was performed in)
+50,	R26 produced things of type (was produced by)
+52,	R27 materialized (was materialized by)
+54,	R28 produced (was produced by)
+56,	R29 reproduced object (was object reproduced by)
+58,	R30 reproduced publication (was publication reproduced by)
+60,	R31 is reproduction of (has reproduction)
+62,63	R32 is warranted by (warrants)
+64	R33 has content
+65,66	R34 has validity period (is validity period of)
+67,	R35 is specified by (specifies)
+69,	R36 uses script conversion (is script conversion used in)
+71,	R37 states as nomen (is stated as nomen in)
+73,	R38 refers to thema (is thema of)
+75,	R39 is intended for (is target audience in)
+77,	R40 has representative expression (is representative expression for)
+79,	R41 has representative manifestation product type (is representative manifestation product type for)
+81,	R42 is representative manifestation singleton for (has representative manifestation singleton)
+83,	R43 carried out by (performed)
+85,	R44 carried out by (performed)
+87,	R45 assigned to (was assigned by)
+89,	R46 assigned (was assigned by)
+not in current version		R47 used constituent (was used in)
+91,	R48 assigned to (was assigned by)
+93,	R49 assigned (was assigned by)
+95,	R50 assigned to (was assigned by)
+97,	R51 assigned (was assigned by)
+99,	R52 used rule (was the rule used in)
+101,	R53 assigned (was assigned by)
+103,	R54 has language (is language of)
+105,	R55 has nomen form (is nomen form in)
+107,108	R56 has related form (is related form of)
+109		R56.1 has type: E55 Type
+110,111	R57 is based on (is basis for)
+112,	R58 has fictional member (is fictional member of)
+114,	R59 had typical subject (was typical subject of)
+116,117	R60 used to use language (was language used by)
+118		R60.1 has type of use: E55 Type
+119,120	R61 occurred in kind of context (was kind of context for)
+121,	R62 was used for membership in (was context for)
+123,	R63 named (was named by)
+125,	R64 used name (was name used by)
+127,	R65 recorded aspects of (had aspects recorded through)
+129,	R66 included performed version of (had a performed version through)
+131,132	R67 has part (forms part of)
+
+		R76.1 has type: E55 Type
+
+
 1,2	Y1 provided a continuation to (was continued through)
 3,4	Y2 initiated as continuation (was initiated as continuation through)
 5,6	Y3 provided a replacement to (was replaced through)
@@ -147,8 +221,3 @@ further urlkey digits 0-9
 87,88	Y41 has former or current area of publication (is former or current area of publication of)
 89,	Y42 has current area of publication (is current area of publication of)
 91,92	Y43 is indicative of (is exemplified by)
-
-
-Z10 Sequencing Pattern Y43i is exemplified by F23 Expression Fragment
-
-"1981-03-10T19:53:44.0 to 1994-10-19T20:32:33.2" Y43i "P1 to P2147483647"
