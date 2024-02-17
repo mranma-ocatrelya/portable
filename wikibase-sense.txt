@@ -1,6 +1,11 @@
+https://web.archive.org/web/*/datasets.imdbws.com*
+https://web.archive.org/web/20180325010002/https://datasets.imdbws.com/name.basics.tsv.gz
+https://web.archive.org/web/20180325010009/https://datasets.imdbws.com/title.basics.tsv.gz
 
-	NEED TO DO:	FRBRoo R67 has part (forms part of)	or component
-			Pressoo Y31 was superseded by (superseded)
+https://web.archive.org/web/*/ftp.sunet.se/pub/tv%2Bmovies/imdb/*
+https://web.archive.org/web/19970615153057/http://ftp.sunet.se:80/pub/tv+movies/imdb/
+https://web.archive.org/web/20060519042319/http://ftp.sunet.se:80/pub/tv+movies/imdb/movies.list.gz
+
 
 
 web.archive.org/web/20150322004946id_/ifla.org/node/9452
@@ -38,6 +43,8 @@ org,ifla)/files/assets/cataloguing/frbr/pressoo_v0.5.pdf>xpdftotext would use th
 	its SID = 5623240234170051599
 "Z7 Ending of Publication"	= 052908
 	its SID = 5623240234170052908
+"Z10 Sequencing Pattern"	= 058103
+	its SID = 5623240234170058103
 "Z12 Issuing Rule"		= 059011
 	its SID = 5623240234170059011
 
@@ -55,13 +62,48 @@ org,cidoc-crm)/frbroo/sites/default/files/LRMoo_V0.9(draft for WLIC 2022).pdf>xp
 "F23 Expression Fragment" = 189778
 	its SID = 5620315006426189778
 
+	LID = 1168837579 (2018-03-25T01:00:02)
+com,imdbws,datasets)/name.basics.tsv.gz would use the urlkey:
+	254 - com, ; 341097 - imdbws, ; 1 - d
+	with a character count of 51x,xxx,xxx
+"nm0000096 Gillian Anderson" = 000009541
+	its SID = 2543410971000009541
+		web.archive.org/web/20030502021255id_/imdb.com/name/nm0000096/board/nest/989871
+but ... LID = 695144958 (2003-03-21T11:43:01)
+	254 - com, ; 3410 - imdb)/ ; 5041 - name/ ; 54 - nm ; 000009
+"nm0000096" = "Gillian Anderson"
+	its SID = 2543410504154000009
 
-"Y31 was superseded by"				= 101522
-Y31i "(superseded)"				= 101544
-"Y37 has former or current issuing rule"	= 106332
-Y37i "(is former or current issuing rule of)"	= 
-"Y38 has current issuing rule"			= 
-Y38i "(is current issuing rule of)"		= 
+	LID = 1168837586 (2018-03-25T01:00:09)
+com,imdbws,datasets)/title.basics.tsv.gz
+	254 - com, ; 341097 - imdbws, ; 1 - d
+	with a character count of 41x,xxx,xxx
+"tt7767422 tvSeries Sex Education" = 397756529
+	its SID = 2543410971397756529
+
+	LID = 604973017 (2000-05-11T19:57:20)
+gov,loc,lcweb)/standards/iso639-2/englangn.html
+	459 - gov, ; 450 - loc, ; 40910 - lcweb)/ ; 780 - sta
+	with a character count of 45379
+"English" = 13044
+	its SID = 4594504091078013044
+
+	LID = 598990854 (2000-03-03T14:14:37)
+gov,loc,lcweb)/sta
+	459 - gov, ; 450 - loc, ; 40910 - lcweb)/ ; 780 - sta
+	with a character count of 23204
+"gov,loc,lcweb)/standards/iso639-2/bibcodes.html/⎀<TR ><TD>art</TD><TD>Artificial (Other)</TD></TR> sequencing pattern" = 02626
+	its SID = 4594504091078002626
+"gov,loc,lcweb)/standards/iso639-2/bibcodes.html/<TR >⎀<TD>art</TD><TD>Artificial (Other)</TD></TR> sequencing pattern" = 02631
+	its SID = 4594504091078002631
+"gov,loc,lcweb)/standards/iso639-2/bibcodes.html/<TR ><TD>⎀art</TD><TD>Artificial (Other)</TD></TR> sequencing pattern" = 02635
+	its SID = 4594504091078002635
+
+	LID = 682712475 (2002-10-28T14:14:58)
+com,imdb,us)/title/tt000
+	254 - com, ; 3410 - imdb, ; 97 - us)/ ; 83841 - title ; 88 - tt ; 000
+"com,imdb,us)/title/\d+ 🝠board sequencing pattern"
+	its SID = 2543410978384188000
 
 
 urlkey for own (locally same) wiki page, character 0
