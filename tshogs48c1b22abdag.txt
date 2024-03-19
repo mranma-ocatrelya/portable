@@ -1,0 +1,77 @@
+https://gana-adhiraajah.solidcommunity.net/settings/serverSide.ttl.inactive
+Wednesday, February 28, 2024 4:48:24.037 PM
+
+https://laangaganesha.solidcommunity.net/settings/serverSide.ttl.inactive
+Wednesday, February 27, 2024 6:57:34.934 PM
+
+
+https://datatracker.ietf.org/doc/html/rfc5322
+	https://datatracker.ietf.org/doc/html/rfc4021
+	https://datatracker.ietf.org/doc/html/rfc2822
+		https://datatracker.ietf.org/doc/html/rfc822
+https://datatracker.ietf.org/doc/html/rfc2045
+
+
+tshogs48c1b22abdag@proton.me
+	(1st email)	2024-03-10T16:53:45Z
+https://tshogs48c1b22abdag.solidcommunity.net/settings/serverSide.ttl.inactive
+	stat:mtime	->	2024-03-10T16:29:41.292Z
+tshogs48c1b22abdag@tutamail.com
+	(1st email)	2024-03-10T14:14:15Z
+
+https://archive.org/serve/@gana_adhiraajah		@outlook.com
+	meta.sqlite	mtime		->	2024-02-29T15:21:58Z
+	meta.xml	addeddate	2024-02-29T15:21:59
+gana-adhiraajah@tutamail.com		username(s w/w/o "-") does not exist w/ Proton
+	(1st email)	2024-02-29T15:14:21Z
+
+laangaganesha@outlook.com		username dne Proton, invalid login credentials w/ Tuta
+	(1st email)	2024-02-28T16:27:08Z
+
+gana-adhiraajah@outlook.com
+	(1st email)	2024-02-27T18:05:57Z
+
+mfx3r0
+
+
+tshogs48c1b22abdag@tutamail.com
+
+tuta recovery code: d4d68afdf4cbbd51d86aac4f6fb57dbb3254600839f59197456de28ec9ebd930
+
+https://thro.be/tshogs48c1b22abdag-1970010101000165edc88a82cd7
+https://thro.be/write.php?&eid=2024031015494665edc88a82d60&rid=345
+                                   2024031015494665edc88a82d60
+
+purl.org/ganesha/edit
+	/ganesa
+
+
+2024-03-10T19:04:03Z
+mfx4d
+
+
+So, here is my latest effort at a basic experimentation page. I've now properly noted the link to further edit this page, so as not to be wasteful.
+
+
+
+This is linked to (as if a subpage) from my "main menu" and so for good organization should also link back.
+
+
+
+creation time: 2024-03-10T14:49:46Z
+
+local experimentation page: mfx4d
+
+tshogs bdag's Solid Project Pod: tshogs48c1b22abdag.solidcommunity.net
+
+https://tshogs48c1b22abdag.solidcommunity.net/
+
+
+
+2024-03-10T19:53:14Z	65ee0faa39616
+̀
+
+
+2024-03-11T15:11:23Z	65ef1f1bb3376
+
+https://thro.be/mfyo9-1970010101000165ef1f1bb2ef3

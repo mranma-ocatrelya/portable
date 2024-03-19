@@ -1,0 +1,1 @@
+koap7a§http¶gov,nist,csrc)/glossary/term/Message¤rdfs:Literal

@@ -1,0 +1,180 @@
+https://notepin.co/
+https://telegra.ph/api
+
+
+gns:?		rAmacandra
+	http://web.archive.org/web/20150523102415/sanskrit-lexicon.uni-koeln.de/scans/MWScan/2014/downloads/monierxml.zip
+
+gns:?		Deity provides man with soul.	a	rdf:Property¤rdfs:Class
+	http://ia800408.us.archive.org/30/items/Thompson2016MotifIndex/Thompson_2016_Motif-Index_chocr.html.gz/Thompson_2016_Motif-Index_chocr.html#line_000034_000014
+message		m6eg1g§http¶org,archive,us,ia800408)/30/items/Thompson2016MotifIndex/Thompson_2016_Motif-Index_chocr.html.gz/Thompson_2016_Motif-Index_chocr.html÷6771944·2995¤rdfs:Class	<span class="ocrx_word" id="word_000034_000124" title="bbox 672 2029 807 2083; x_wconf 96; x_fsize 58"><!-- 5 ocrx_word spans containing 25 ocrx_cinfo spans --></span>
+hash_value 	ffe380515e1ed8d2696f9aa9c11e74b1c6d5c8ac
+
+gns:?		(Tatpurusha →) Maheshvara
+	http://en.wikipedia.org/w/index.php?title=Pañcānana&oldid=1038991140
+message		l3okew§http¶org,wikipedia,en)/w/index.php?title=Pañcānana&oldid=1038991140÷4484·14	[[Maheshvara]]
+hash_value	503d48ce42fffef3031ce168fb857670fb7bbb2c
+
+˂./˃ a owl:Ontology .
+@prefix	IOLite: ˂http://www.ontologydesignpatterns.org/ont/dul/IOLite.owl#˃ .
+
+gns:52c5d5c4	message		a	rdf:Property¤rdfs:Literal	(Web services)
+	http://web.archive.org/web/20201020231229/csrc.nist.gov/glossary/term/Message
+message		koap7a§http¶gov,nist,csrc)/glossary/term/Message¤rdfs:Literal
+hash_value 	52c5d5c4c26f610edb43a60a0b6da75cab883c56
+
+gns:6abd7402	hash value	a	rdf:Property¤rdfs:Literal
+	http://web.archive.org/web/20201020033220/csrc.nist.gov/glossary/term/hash_value
+message		ko96kd§http¶gov,nist,csrc)/glossary/term/hash_value¤rdfs:Literal
+hash_value 	6abd7403ac9a9d9317e12976514058f92cf20e51
+
+
+gns:26e52ee4	addr-spec	a	rdfs:Class
+	http://web.archive.org/web/20081205062900id_/rfc-editor.org/rfc/rfc5322.txt
+message		eduuov§http¶org,rfc-editor)/rfc/rfc5322.txt÷40596·9
+hash_value 	26e52ee59d0b39101a8fe6dd89f7b65669b76462
+
+gns:93523d42	addr-spec	a	rdf:Property¤rdfs:Class
+message		eduuov§http¶org,rfc-editor)/rfc/rfc5322.txt÷40596·9¤rdfs:Class
+hash_value 	93523d43a924bc3df61fe397e648c5e91b0cbc05
+
+gns:24f0a72c	(≔) local-part	a	rdfs:Class			≕addr-spec
+message		eduuov§http¶org,rfc-editor)/rfc/rfc5322.txt÷40616·10
+hash_value 	24f0a72d05f41504f88509ca97f297b99e01f788
+
+gns:78b85ac8	(≔) local-part	a	rdf:Property¤rdfs:Class		≕addr-spec
+message		eduuov§http¶org,rfc-editor)/rfc/rfc5322.txt÷40616·10¤rdfs:Class
+hash_value 	78b85ac99cea1e7adfc1a5273251ca605c184120
+
+gns:13d469a4	(≔) domain	a	rdfs:Class			≕addr-spec
+message		eduuov§http¶org,rfc-editor)/rfc/rfc5322.txt÷40631·6
+hash_value 	13d469a47006735af23303e6ebca4b14e2bccaf2
+
+gns:e0c5619c	(≔) domain	a	rdf:Property¤rdfs:Class		≕addr-spec
+message		eduuov§http¶org,rfc-editor)/rfc/rfc5322.txt÷40631·6¤rdfs:Class
+hash_value 	e0c5619dda8928c795bcefcacaaee488a91ba261
+	https://datatracker.ietf.org/doc/rfc5322/history
+
+
+gns:750755ec	a		=	http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+	http://web.archive.org/web/20120715034043id_/w3.org/TR/2012/WD-turtle-20120710
+message		gc1d∅∅§org,w3)/TR/2012/WD-turtle-20120710÷34148¤rdfs:Class
+hash_value 	750755ec7f161e9dc22b54ec45071fae311f32fe
+	#w3c-working-draft-27-june-2012
+
+
+gns:?		transcode	a	rdf:Property¤rdfs:Literal
+	http://web.archive.org/web/20180911011426id_/babelstone.co.uk/Software/BabelPad_Dialog_Transcode.html
+message		iiy2og
+hash_value	?
+	http://web.archive.org/web/20160908062735id_/babelstone.co.uk/Software/BabelPad_Menu.html
+
+
+gns:e7a29a2e		username1password@protonmail.com	a	rdfs:Class
+			ïíßìèÛçßnêÛííñéìÞ³êìéîéèçÛãækÝéç
+message		k0eyth§mailto¶com,protonmail)/username1password
+transcode		åmßóîâĢçÛãæîéıÝéçiêìéîéèçÛãæflïíßìèÛçßnêÛííñéìÞ
+hash_value 	e7a29a2f7c0e073d1df93388b1157aa4faf5ba9c
+
+gns:53c4374c	username1password@protonmail.com	a	rdfs:Class
+message		k0eyth§mailto¶com,protonmail)/username1password
+hash_value 	53c4374d88f56775adc78aef525ecb63920aec24
+
+	**** NOW TRANSCODE THESE ****
+
+gns:67dc2b34	username1password@proton.me		a	rdfs:Class
+message		lg3trb§mailto¶me,proton)/username1password
+hash_value 	67dc2b34e8f421f8677a96673d677187e30730fa
+
+gns:60e0ddbc	username1password			a	rdfs:Class
+message		username1password
+hash_value 	60e0ddbd60a95fb1e45b70c0615101daacd30787
+
+gns:d6cff750	protonmail.com				a	rdfs:Class
+message		i25∅∅∅¶com,protonmail
+hash_value 	d6cff7508090d312e951e95ffcb721bfc24ce37c
+
+gns:f4eda866	proton.me				a	rdfs:Class
+message		lfq∅∅∅¶me,proton
+hash_value 	f4eda866338447f9e0c0d11f76b8c64e01984ba5
+
+
+	http://www.merriam-webster.com/dictionary/username
+
+
+
+
+https://datatracker.ietf.org/doc/html/rfc5322#page-18
+
+
+gns:1bf49620	"user name" a rdfs:Class
+gns:dcb5f53a	"user name" a rdf:Property ¤ rdfs:Class
+	iso.org/obp/ui/en/#iso:std:iso-iec-ieee:9945:ed-1:v1:en:term:3.429
+
+message		evs∅∅∅§localhost)/org/iso/obp/ui/en/iso/std/iso-iec-ieee/9945.
+
+message		evs∅∅∅§iso_std_iso-iec-ieee_9945_ed-1_v1_en.mhtml#iso_std_iso-iec-ieee_9945_ed-1_v1_en_term_3.429
+hash_value 	1bf49620d77920c3b8ada4e0e5bb5c89c5743cbc
+message		evs∅∅∅§iso_std_iso-iec-ieee_9945_ed-1_v1_en.mhtml#iso_std_iso-iec-ieee_9945_ed-1_v1_en_term_3.429¤rdfs:Class
+hash_value 	dcb5f53bf7606e0a10efe1527beb41ae77e44ea1
+	web.archive.org/web/20181215154410/iso.org/standard/50516.html#stages
+
+
+
+
+raw.githubusercontent.com/ProtonMail/protoncore_ios/ffbfc/libraries/DataModel/Sources/Address.swift
+
+	domainID
+	gns:7dc7513A
+message		134§com,githubusercontent,raw)/ProtonMail/protoncore_ios/ffbfc/libraries/DataModel/Sources/Address.swift÷2056¤rdfs:Class
+	1340
+hash_value 	7dc7513b4d5b3bd21d0a90704524d24c5c48080a
+
+
+web.archive.org/web/20150/protonmail.com/blog/new-protonmail-website/
+
+
+	GIVE THESE TRANSCODED VALUES
+
+message		11§protonmail.com
+	110
+hash_value 	caf8694f790ab955d07452a2135a8c2976bc2b29
+
+web.archive.org/web/202204070/protonmail.com/blog/protonme-domain/
+
+message		13§proton.me
+	130
+hash_value 	370dc9f74ece1267f1f82928ce4460eaa94235b8
+
+web.archive.org/web/2018091/babelstone.co.uk/Software/BabelPad_Dialog_Transcode.html
+
+	gns:e88924dC
+message		1184§uk,co,babelstone)/Software/BabelPad_Dialog_Transcode.html¤rdfs:Litrl
+hash_value 	e88924dc3c36edc41ad8aec59711de5d1b2a40d1
+
+web.archive.org/web/20201020/csrc.nist.gov/glossary/term/ :
+
+	gns:b1b94480
+message		125§gov,nist,csrc)/glossary/term/message¤rdfs:Litrl
+	1250
+hash_value 	b1b94480d915bb206ea5c1711ddc9ced7e89f4bc
+
+	gns:346d9b5E
+message		125§gov,nist,csrc)/glossary/term/hash_value¤rdfs:Litrl
+	1250
+hash_value 	346d9b5f982e4a965408b0c0f952fb2391f17118
+
+
+
+
+
+
+gns:aec133c2 a dcat:Dataset ;
+        rdfs:label aec133c2c57464934f6b1953f5ac7079c52a93fa .
+
+
+
+
+message		Unicode16→1:*;*;non-C;*;non-A,R
+
+	Unicode16→8→4→2:*;*;L*,N*;*;non-A*,R

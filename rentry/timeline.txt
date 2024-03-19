@@ -1,0 +1,30 @@
+[main menu page](timestamp-mg61n)
+
+I'd like to use this page to outline some Tibetan Buddhist text resources and their offerings.
+
+* i∅∅∅∅∅ ≊ late 2015 to mid-2017
+* j∅∅∅∅∅ ≊ mid-2017 to mid-2019
+* k∅∅∅∅∅ ≊ mid-2019 to mid-2021
+  * k6∅∅∅∅ ≊ 2019 10→11 to mid-11
+    * k6d∅∅∅ ≊ 2019-11-07
+      * k6db∅∅ ≊ 2019-11-07T10→11
+        * k6dbf∅ ≊ T11:02→03
+          * k6dbfz = T11:03:18
+            * github.com/84000/data-rdf/commit/a38e
+              * toh44-45.rdf : Gaṇḍa­vyūha : The Stem Array
+              * toh44-45a.rdf : bhadracaryāpraṇidhāna : The Prayer of Good Action
+* l∅∅∅∅∅ ≊ mid-2021 to early 2023
+* m∅∅∅∅∅ ≊ early 2023 to early 2025
+  * mf∅∅∅∅ ≊ 2024 02→03
+
+[personal]: # (m∅∅∅∅∅)
+[personal]: ## (mf∅∅∅∅)
+[personal]: ### (mfw∅∅∅ ≊ 2024-03-10)
+[personal]: #### (mfwq∅∅ ≊ 2024-03-10T13→14)
+[personal]: ##### (mfwqy∅ ≊ T14:14)
+[personal]: ###### (mfwqy8 = T14:14:15)
+[personal]: ####### (îíâéáíquÝnÜooÛÜÞÛá³îïîÛçÛãækÝéç)
+[personal]: #### (mfwr∅∅ ≊ 2024-03-10T14)
+[personal]: ##### (mfwr4∅ ≊ T14:17→18)
+[personal]: ###### (mfwr4z = T14:18:18)
+[personal]: ####### (ÛìÝâãðßkéìálÞßîÛãæíl³îíâéáíquÝnÜooÛÜÞÛá)

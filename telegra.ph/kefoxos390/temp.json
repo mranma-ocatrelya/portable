@@ -1,0 +1,5 @@
+[{"tag":"ul","children":
+  [{"tag":"li","children":
+    ["test",{"tag":"b"},"test"]
+  }]
+}]

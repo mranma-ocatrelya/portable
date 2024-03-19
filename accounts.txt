@@ -1,0 +1,82 @@
+
+username1password
+	anyflip
+	demonoid.is
+	facebook
+	models
+	myaccess.myflfamilies.com
+	proton
+
+raamasamgin
+	amazon
+	fandom
+	fantasygrounds
+	github
+	imdb
+	inrupt
+	omdb
+	proton
+	scribd
+	themoviedb
+	tvtime
+	wikitide
+	wiktionary
+	wordpress
+
+vortesserax
+	github
+	proton
+	twitter
+
+sallekhanaa
+	archive
+	docker.com
+	facebook
+	omdb
+	ontome
+	proton
+	solidcommunity
+	wikipedia
+	wordpress
+
+wkbscmh
+	archive
+	proton
+
+agni(m/M/.mahesvara)
+	inrupt
+	librarything
+	miraheze
+	proton
+	twitch.tv concat([regpw];Sallekhanaa1Agni)
+
+myhplaptop@protonmail.com
+	live
+	proton
+
+buddhividhaatre
+	proton
+	solidcommunity
+
+username9816password
+	proton
+
+transcodex
+	proton
+	tftvdb.wikitide
+
+	wordpress
+transcodices
+
+kachin.kwinhsalan
+	skiff
+
+myanma.awsatrehya
+	skiff
+
+(p/P)i(k/K)ougi(-/.)n(a/A)bot
+	sourceforge
+	wikitide
+
+clintmarshallhendrix
+	proton

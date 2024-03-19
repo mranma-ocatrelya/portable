@@ -7,19 +7,19 @@
     <case>case-sensitive</case>
   </siteinfo>
   <!--page>
-    <title>Item:Qxxx</title>
+    <title>Item:Q645776051</title>
     <ns>860</ns>
     <revision>
-      <text>{"type":"item","id":"Qxxx","labels":{"en":{"language":"en","value":"xxx"},"en-us":{"language":"en-us","value":"xxx"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <text>{"type":"item","id":"Q645776051","labels":{"en":{"language":"en","value":"username1password@proton.me"},"en-us":{"language":"en-us","value":"username1password@proton.me"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
     </revision>
   </page-->
-  <!--page>
-    <title>Property:Pxxx</title>
+  <page>
+    <title>Property:P1733326174</title>
     <ns>122</ns>
     <revision>
-      <text>{"type":"property","datatype":"wikibase-sense","id":"Pxxx","labels":{"en":{"language":"en","value":"xxx"},"en-us":{"language":"en-us","value":"xxx"}},"descriptions":[],"aliases":[],"claims":[]}</text>
+      <text>{"type":"property","datatype":"wikibase-item","id":"P1733326174","labels":{"en":{"language":"en","value":"a"},"en-us":{"language":"en-us","value":"a"}},"descriptions":[],"aliases":[],"claims":[]}</text>
     </revision>
-  </page-->
+  </page>
   <!--page>
     <title>Lexeme:Lxxx</title>
     <ns>146</ns>
@@ -27,11 +27,11 @@
       <text>{"type":"lexeme","id":"Lxxx","lemmas":{"en":{"language":"en","value":"xxx"}},"lexicalCategory":"Q1","language":"Q1","claims":[],"nextFormId":1,"nextSenseId":1,"forms":[],"senses":[]}</text>
     </revision>
   </page-->
-  <page>
+  <!--page>
     <title>Lexeme:L604973017</title>
     <ns>146</ns>
     <revision>
       <text>{"type":"lexeme","id":"L604973017","lemmas":{"en":{"language":"en","value":"2000-05-11T19:57:20"}},"lexicalCategory":"Q937282076","language":"Q604973334","claims":[],"nextFormId":1,"nextSenseId":4594504091078013045,"forms":[],"senses":[{"id":"L604973017-S4594504091078013044","glosses":{"en":{"language":"en","value":"English"}},"claims":[]}]}</text>
     </revision>
-  </page>
+  </page-->
 </mediawiki>
